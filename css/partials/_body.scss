@@ -1,0 +1,24 @@
+    /*BODY COLOR DE FONDO*/
+
+    body {
+        background-color: $colorterciario;
+
+
+        .contenido {
+            background-color: $colorterciario;
+            padding: 1% 5%;
+            padding-bottom: 20px;
+
+        }
+
+        .card-body {
+            background-color: $colorsecundario;
+            font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+
+        }
+
+        .cont-index {
+            background-color: $colorterciario;
+
+        }
+    }

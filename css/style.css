@@ -1,0 +1,76 @@
+/*TODO*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+*::-moz-selection {
+  background-color: #F7ECDE;
+  color: #54BAB9;
+}
+
+*::selection {
+  background-color: #F7ECDE;
+  color: #54BAB9;
+}
+
+/*LOGO*/
+.logo {
+  background-color: #54BAB9;
+  color: #F7ECDE;
+  /* LOGO(sombra y fuente)*/
+  /*NAVEGADOR COLOR DE FONDO*/
+}
+
+.logo .navbar-brand {
+  text-shadow: 2px 2px #9ED2C6;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+
+.logo .navbar {
+  background-color: #9ED2C6;
+}
+
+/*BODY COLOR DE FONDO*/
+body {
+  background-color: #F7ECDE;
+}
+
+body .contenido {
+  background-color: #F7ECDE;
+  padding: 1% 5%;
+  padding-bottom: 20px;
+}
+
+body .card-body {
+  background-color: #9ED2C6;
+  font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
+}
+
+body .cont-index {
+  background-color: #F7ECDE;
+}
+
+/*FOOTER*/
+footer {
+  margin-top: auto;
+}
+
+footer .footer1 {
+  background-color: #9ED2C6;
+  color: #F7ECDE;
+}
+
+footer .footer2 {
+  background-color: #54BAB9;
+  color: #F7ECDE;
+}
+
+footer .footer3 {
+  background-color: #54BAB9;
+  color: #F7ECDE;
+  font-size: x-small;
+}
+
+/*# sourceMappingURL=style.css.map */

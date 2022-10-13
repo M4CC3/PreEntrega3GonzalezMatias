@@ -1,0 +1,17 @@
+    /*LOGO*/
+    .logo {
+        background-color: $colorprincipal;
+        color: $colorterciario;
+
+        /* LOGO(sombra y fuente)*/
+        .navbar-brand {
+            text-shadow: 2px 2px $colorsecundario;
+            font-family: $fontprincipal ;
+        }
+
+
+        /*NAVEGADOR COLOR DE FONDO*/
+        .navbar {
+            background-color: $colorsecundario;
+        }
+    }

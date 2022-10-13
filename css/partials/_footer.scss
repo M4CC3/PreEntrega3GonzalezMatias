@@ -1,0 +1,21 @@
+/*FOOTER*/
+footer {
+    margin-top: auto;
+
+    .footer1 {
+        background-color: $colorsecundario;
+        color: $colorterciario;
+    }
+
+    .footer2 {
+        background-color: $colorprincipal;
+        color: $colorterciario;
+    }
+
+    .footer3 {
+        background-color: $colorprincipal;
+        color: $colorterciario;
+        font-size: x-small;
+    }
+
+}
